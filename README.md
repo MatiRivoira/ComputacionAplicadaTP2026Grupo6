@@ -1,4 +1,5 @@
 # Trabajo practico Grupo Nro 6
+```text
 Integrantes:
   Matias Gabriel Rivoira
   Juan Ignacio Brajer
@@ -32,3 +33,4 @@ Integrantes:
               ⠸⣿⣿⣿⣿⣿⣷⣿⡿⠀⣾⣿⢿⣿⣇⠀⢸⣿⣿⣛⣻⣿⣷⠀⢿⣿⣿⡛⠛⠛
               ⠀⢻⣿⣿⡿⣿⣿⣿⠃⣸⣿⣿⣼⣿⣿⡄⢸⣿⣿⣿⣿⣿⣥⣤⣬⣿⣿⣿⠀⠀
               ⠀⠈⠿⠿⠁⠹⠿⠟⠀⠿⠿⠉⠉⠹⠿⠧⠸⠿⠿⠈⠛⠿⠿⠿⠿⠿⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
